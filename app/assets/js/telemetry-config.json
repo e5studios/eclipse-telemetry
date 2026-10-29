@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "endpoint": "",
+  "sharedKey": "",
+  "intervalHours": 24,
+  "timeoutMs": 8000
+}
